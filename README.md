@@ -1,1 +1,1 @@
-# uyuniadventure.cotizador
+# uyuniadventure.booking
